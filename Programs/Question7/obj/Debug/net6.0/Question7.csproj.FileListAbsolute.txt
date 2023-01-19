@@ -1,0 +1,15 @@
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\bin\Debug\net6.0\Question7.exe
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\bin\Debug\net6.0\Question7.deps.json
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\bin\Debug\net6.0\Question7.runtimeconfig.json
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\bin\Debug\net6.0\Question7.dll
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\bin\Debug\net6.0\Question7.pdb
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\Question7.csproj.AssemblyReference.cache
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\Question7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\Question7.AssemblyInfoInputs.cache
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\Question7.AssemblyInfo.cs
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\Question7.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\Question7.dll
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\refint\Question7.dll
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\Question7.pdb
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\Question7.genruntimeconfig.cache
+C:\Users\adarsh.v\source\repos\CsharpTesting\Question6\obj\Debug\net6.0\ref\Question7.dll
